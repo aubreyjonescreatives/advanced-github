@@ -6,3 +6,7 @@
 # Git Checkout to Trial-Run (Where commit and file are)
 # Git Checkout to main 
 # Git revert
+
+
+
+# All Images are located in the src/images folder. 
