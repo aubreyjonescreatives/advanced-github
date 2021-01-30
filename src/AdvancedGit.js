@@ -51,10 +51,23 @@ function AdvancedGit() {
       <Row>
      <ul>
      <li className="A">Question 4: What is git reset?</li> 
+     <li>A git reset is an incredible command where individuals can undo local changes.</li>
      <li className="A">Question 5: What is git checkout?</li>
+     <li>A git checkout allows individuals to switch between branches.</li>
      <li className="A">Question 6: What is git revert?</li> 
+     <li>A git revert is a safer way of a git reset as it will make the change but keep it as a commit instead of deleting it altogether.</li>
      <li className="A">Question 7: In what ways are these commands the same and in what ways are they different?</li> 
+     <li>Git reset and git revert are similiar because they involve removing a previous command. They differ because git revert keeps
+       the command history and creates a new commit while git reset is deleting the previous command altogether. Git checkout is entirely 
+       different from git reset and git revert because it just allows the individual to essentially checkout commands to a different 
+       branch.
+     </li>
      <li className="A">Question 8: When would you use reset, checkout, or revert? Why?</li> 
+     <li>In the command world, reset is extremely important when I make a command mistake and no longer wish to keep it. 
+       Checkout is very helpful when I want to add project info to separate branches rather than the main branch. Sometimes it is important 
+       to keep my code separate from everyone elses, especially if I test my development. Revert is a much safer and cleaner version of 
+       reset as it allows me to keep track of all of my changes, even when I no longer need that specific command. 
+     </li>
      </ul>
      </Row>
      </Container>
