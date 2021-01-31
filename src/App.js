@@ -2,6 +2,7 @@ import React from 'react'
 import './App.css';
 import AdvancedGit from './AdvancedGit'
 import TopNavigation from './TopNavigation'
+import BottomNavigation from './BottomNavigation'
 import Header from './Header'
 
 
@@ -11,6 +12,7 @@ function App() {
     <Header/>
     <TopNavigation/>
     <AdvancedGit/>
+    <BottomNavigation/>
     </div>
   );
 }

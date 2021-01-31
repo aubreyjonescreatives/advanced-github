@@ -151,56 +151,14 @@ figure.github img {width: 100%;}
 
 /* ------------------------FOOTER----------------------------- */
 
-div#wrapperFooter {
-   // background-color: $thirdColor;
-    z-index: 999;
-    box-shadow: 2px 2px 10px 0px #666666; 
-    height: 75px; 
-    margin-top: 100px; 
-}
-
-
-
-
 footer {
-   // background-color: $thirdColor; 
-    height: 75px;   
-    margin-top: 100px;
-   
-    
-    p {  
- //     color: $white; 
-      padding: 2rem 0;     
-      font-size: .9rem;
-      text-align: center; 
-     
-      p a {
-      //  color: $white;  
-         
-     } 
-
-     
-        
-    }  // end p 
-    
-   
-    
-/*    
-   
-div.apple { grid-row: 1; grid-column: 1; align-self: start; } 
-div.pear { grid-row: 2; grid-column: 1; }     
-div.banana { grid-row: 3; grid-column: 1; }  
-div.plum { grid-row: 4; grid-column: 1; }        
-    
- */   
-    
-   
-
-
-
+text-align: center; 
+padding: 50px 0px; 
+background-color: $secondaryColor; 
+color: $fontColor; 
+margin-top: 50px; 
 
 }
-
 
 
 
